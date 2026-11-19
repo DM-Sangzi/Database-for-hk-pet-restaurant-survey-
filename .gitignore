@@ -1,0 +1,25 @@
+# ---- Personal data: never commit ----
+*Reflection*
+*reflection*
+*Group Reflection Survey*
+姓名*
+*names*
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ---- Temporary files ----
+*.tmp
+*.log
+~$*
+verify_out.txt
+
+# ---- Office / OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
